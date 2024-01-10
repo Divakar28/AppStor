@@ -1,0 +1,14 @@
+.appImage {
+  height: 10vh;
+  width: 5vw;
+  padding: 10px;
+}
+.apps-lists {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px;
+}
